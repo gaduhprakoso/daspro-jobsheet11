@@ -21,5 +21,6 @@ public class Kubus10 {
         System.out.println("Sisi kubus: " + sisi);
         System.out.println("Volume kubus: " + volume);
         System.out.println("Luas permukaan kubus: " + luas);
+        sc.close();
     }
 }
